@@ -1,7 +1,3 @@
-# Join the RubyMotion Slack Channel #
-
-[Here is the link.](http://motioneers.herokuapp.com/) Say hello!
-
 # Minimum Requirements #
 
 The minimum requirements to use this template are XCode 9.2 and
