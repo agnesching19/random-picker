@@ -112,3 +112,4 @@ def define_icon_defaults!(app)
     }
   }
 end
+
