@@ -12,6 +12,7 @@ to just `rake clean`.
 To build using the default simulator, run: `rake` (alias `rake
 simulator`).
 
+
 To run on a specific type of simulator. You can run `rake simulator
 device_name="SIMULATOR"`. Here is a list of simulators available:
 
