@@ -27,6 +27,7 @@ Consider using https://github.com/KrauseFx/xcode-install (and other
 parts of FastLane) to streamline management of simulators,
 certificates, and pretty much everything else.
 
+
 So, for example, you can run `rake simulator device_name='iPhone X'`
 to see what your app would look like on iPhone X.
 
