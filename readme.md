@@ -33,7 +33,6 @@ to see what your app would look like on iPhone X.
 # Deploying to the App Store #
 
 To deploy to the App Store, you'll want to use `rake clean
-
 archive:distribution`. With a valid distribution certificate.
 
 In your `Rakefile`, set the following values:
