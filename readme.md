@@ -30,6 +30,7 @@ certificates, and pretty much everything else.
 So, for example, you can run `rake simulator device_name='iPhone X'`
 to see what your app would look like on iPhone X.
 
+
 # Deploying to the App Store #
 
 To deploy to the App Store, you'll want to use `rake clean
