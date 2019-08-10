@@ -15,7 +15,6 @@ simulator`).
 To run on a specific type of simulator. You can run `rake simulator
 device_name="SIMULATOR"`. Here is a list of simulators available:
 
-
 - `rake simulator device_name='iPhone 5s'`
 - `rake simulator device_name='iPhone 8 Plus'`
 - `rake simulator device_name='iPhone 8 Plus'`
