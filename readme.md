@@ -6,7 +6,6 @@ RubyMotion 5.0.
 Keep in mind that if you've recently upgraded from a previous versions
 of XCode or RubyMotion, you'll want to run `rake clean:all` as opposed
 to just `rake clean`.
-
 # Build #
 
 To build using the default simulator, run: `rake` (alias `rake
